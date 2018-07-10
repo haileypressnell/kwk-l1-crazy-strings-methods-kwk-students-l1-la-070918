@@ -9,4 +9,5 @@ Write a method `crazy_strings` that takes in two strings as arguments. The first
 
 For example, `crazy_strings("Hello", "Friends")` should return `"OLLEH fRIENDZ"`.
 
-crazy_strings("Hello", "Friends")
+def crazy_strings
+end 
